@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      <class name="Selenium.Grid.Edge_4"/>
+      <class name="Selenium.Grid.Edge_1"/>
+      <class name="Selenium.Grid.Edge_3"/>
+      <class name="Selenium.Grid.Edge_2"/>
+      <class name="Selenium.Grid.ChromeTest_6"/>
+      <class name="Selenium.Grid.ChromeTest_5"/>
+      <class name="Selenium.Grid.Firefox_1"/>
+      <class name="Selenium.Grid.ChromeTest_4"/>
+      <class name="Selenium.Grid.ChromeTest_3"/>
+      <class name="Selenium.Grid.Firefox_3"/>
+      <class name="Selenium.Grid.ChromeTest_2"/>
+      <class name="Selenium.Grid.Firefox_2"/>
+      <class name="Selenium.Grid.ChromeTest_1"/>
+      <class name="Selenium.Grid.Firefox_4"/>
+    </classes>
+  </test>
+</suite>

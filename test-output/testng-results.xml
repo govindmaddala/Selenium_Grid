@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T12:17:03 IST" name="Suite" finished-at="2022-11-10T12:17:27 IST" duration-ms="23695">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T12:17:03 IST" name="Test" finished-at="2022-11-10T12:17:27 IST" duration-ms="23695">
+      <class name="Selenium.Grid.Firefox_1">
+        <test-method signature="getFirefox()[pri:0, instance:Selenium.Grid.Firefox_1@53fe15ff]" started-at="2022-11-10T12:17:09 IST" name="getFirefox" finished-at="2022-11-10T12:17:27 IST" duration-ms="17121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirefox -->
+      </class> <!-- Selenium.Grid.Firefox_1 -->
+      <class name="Selenium.Grid.Firefox_4">
+        <test-method signature="getFirefox()[pri:0, instance:Selenium.Grid.Firefox_4@15bb5034]" started-at="2022-11-10T12:17:18 IST" name="getFirefox" finished-at="2022-11-10T12:17:26 IST" duration-ms="8095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirefox -->
+      </class> <!-- Selenium.Grid.Firefox_4 -->
+      <class name="Selenium.Grid.Firefox_3">
+        <test-method signature="getFirefox()[pri:0, instance:Selenium.Grid.Firefox_3@5b1669c0]" started-at="2022-11-10T12:17:11 IST" name="getFirefox" finished-at="2022-11-10T12:17:27 IST" duration-ms="15783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirefox -->
+      </class> <!-- Selenium.Grid.Firefox_3 -->
+      <class name="Selenium.Grid.Firefox_2">
+        <test-method signature="getFirefox()[pri:0, instance:Selenium.Grid.Firefox_2@6e9175d8]" started-at="2022-11-10T12:17:15 IST" name="getFirefox" finished-at="2022-11-10T12:17:27 IST" duration-ms="11088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirefox -->
+      </class> <!-- Selenium.Grid.Firefox_2 -->
+      <class name="Selenium.Grid.Edge_1">
+        <test-method signature="getEdge()[pri:0, instance:Selenium.Grid.Edge_1@11392934]" started-at="2022-11-10T12:17:03 IST" name="getEdge" finished-at="2022-11-10T12:17:09 IST" duration-ms="6482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEdge -->
+      </class> <!-- Selenium.Grid.Edge_1 -->
+      <class name="Selenium.Grid.ChromeTest_2">
+        <test-method signature="getChrome()[pri:0, instance:Selenium.Grid.ChromeTest_2@78e4deb0]" started-at="2022-11-10T12:17:15 IST" name="getChrome" finished-at="2022-11-10T12:17:18 IST" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getChrome -->
+      </class> <!-- Selenium.Grid.ChromeTest_2 -->
+      <class name="Selenium.Grid.ChromeTest_1">
+        <test-method signature="getChrome()[pri:0, instance:Selenium.Grid.ChromeTest_1@7d0b7e3c]" started-at="2022-11-10T12:17:17 IST" name="getChrome" finished-at="2022-11-10T12:17:19 IST" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getChrome -->
+      </class> <!-- Selenium.Grid.ChromeTest_1 -->
+      <class name="Selenium.Grid.ChromeTest_4">
+        <test-method signature="getChrome()[pri:0, instance:Selenium.Grid.ChromeTest_4@449a4f23]" started-at="2022-11-10T12:17:10 IST" name="getChrome" finished-at="2022-11-10T12:17:15 IST" duration-ms="5013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getChrome -->
+      </class> <!-- Selenium.Grid.ChromeTest_4 -->
+      <class name="Selenium.Grid.ChromeTest_3">
+        <test-method signature="getChrome()[pri:0, instance:Selenium.Grid.ChromeTest_3@1530c739]" started-at="2022-11-10T12:17:11 IST" name="getChrome" finished-at="2022-11-10T12:17:17 IST" duration-ms="5748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getChrome -->
+      </class> <!-- Selenium.Grid.ChromeTest_3 -->
+      <class name="Selenium.Grid.ChromeTest_6">
+        <test-method signature="getChrome()[pri:0, instance:Selenium.Grid.ChromeTest_6@76a4ebf2]" started-at="2022-11-10T12:17:03 IST" name="getChrome" finished-at="2022-11-10T12:17:11 IST" duration-ms="7872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getChrome -->
+      </class> <!-- Selenium.Grid.ChromeTest_6 -->
+      <class name="Selenium.Grid.ChromeTest_5">
+        <test-method signature="getChrome()[pri:0, instance:Selenium.Grid.ChromeTest_5@2e8c1c9b]" started-at="2022-11-10T12:17:08 IST" name="getChrome" finished-at="2022-11-10T12:17:11 IST" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getChrome -->
+      </class> <!-- Selenium.Grid.ChromeTest_5 -->
+      <class name="Selenium.Grid.Edge_4">
+        <test-method signature="getEdge()[pri:0, instance:Selenium.Grid.Edge_4@3c77d488]" started-at="2022-11-10T12:17:03 IST" name="getEdge" finished-at="2022-11-10T12:17:08 IST" duration-ms="4632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEdge -->
+      </class> <!-- Selenium.Grid.Edge_4 -->
+      <class name="Selenium.Grid.Edge_3">
+        <test-method signature="getEdge()[pri:0, instance:Selenium.Grid.Edge_3@6892b3b6]" started-at="2022-11-10T12:17:03 IST" name="getEdge" finished-at="2022-11-10T12:17:15 IST" duration-ms="12453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEdge -->
+      </class> <!-- Selenium.Grid.Edge_3 -->
+      <class name="Selenium.Grid.Edge_2">
+        <test-method signature="getEdge()[pri:0, instance:Selenium.Grid.Edge_2@6e6f2380]" started-at="2022-11-10T12:17:03 IST" name="getEdge" finished-at="2022-11-10T12:17:10 IST" duration-ms="7264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEdge -->
+      </class> <!-- Selenium.Grid.Edge_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
